@@ -16,3 +16,6 @@
   setPreference: false
   objective: roles-antag-zombie-objective
   guides: [ Zombies ]
+  - type: Tag
+    tags:
+    - CannotSuicide
